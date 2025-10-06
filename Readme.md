@@ -419,7 +419,7 @@ We've created **comprehensive documentation** to ensure success at every stage:
 
 ### Watch Quieo in Action
 
-**📹 Full Demo Video**: [Insert Demo Video Link Here]
+**📹 Full Demo Video**: [ Demo Video Link ](https://youtu.be/mLJGD5DOK1g)
 
 ### What You'll See:
 
@@ -458,31 +458,7 @@ We've created **comprehensive documentation** to ensure success at every stage:
    - Health check and monitoring
    - SSL/TLS configuration walkthrough
 
-### Alternative Demo Access:
 
-If video is not available, try the **live system**:
-- **Production URL**: [https://ryker.my.id](https://ryker.my.id)
-- **Demo Credentials**: [Contact for demo access]
-- **Test Features**: Full-featured demo environment available
-
-### Quick Demo Script
-
-For reviewers who want a hands-on experience:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/quieo.git
-cd quieo
-
-# Quick start (Linux/Mac)
-./quickstart.sh
-
-# Or Windows
-quickstart.bat
-
-# Access the application
-# Browser will open automatically to http://localhost:3000
-```
 
 ---
 
@@ -591,20 +567,6 @@ We stand on the shoulders of giants. Thank you to the maintainers of:
 
 ---
 
-## 📄 License & Usage
-
-### Educational & Research Use
-This project is designed for:
-- Educational demonstrations of quantum cryptography concepts
-- Research in post-quantum communication protocols
-- Security awareness training
-- Academic projects and dissertations
-
-### Commercial Inquiries
-For enterprise licensing, white-label solutions, or commercial deployment:
-- Contact: [Your Contact Information]
-- Website: [Your Website]
-
 ---
 
 ## 🙏 Acknowledgments
@@ -614,7 +576,8 @@ Special thanks to:
 - NIST for post-quantum cryptography standardization
 - Open source contributors whose work made this possible
 - Early testers and feedback providers
-
+- Team QbiQ
+  
 ---
 
 ## 📞 Contact & Support
@@ -662,6 +625,6 @@ The future of secure communication is here. **Welcome to Quieo.**
 
 *Last Updated: October 2025*  
 *Version: 1.0.0*  
-*Status: Production Deployed*
+*Status: Production Ready*
 
 </div>
