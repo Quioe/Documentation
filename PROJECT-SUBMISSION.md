@@ -408,15 +408,10 @@ We've created **comprehensive documentation** to ensure success at every stage:
 - **External Email Integration**: [`docs/EXTERNAL-EMAIL-INTEGRATION.md`](docs/EXTERNAL-EMAIL-INTEGRATION.md)
 - **QBiQ Secure Implementation**: [`docs/QBIQ-SECURE-IMPLEMENTATION.md`](docs/QBIQ-SECURE-IMPLEMENTATION.md)
 
-### Deployment Guides
-- **Production Deployment**: [`deployment/README.md`](deployment/README.md)
-- **Cloudflare Setup**: [`deployment/CLOUDFLARE-SETUP.md`](deployment/CLOUDFLARE-SETUP.md)
-- **Quick Deploy Script**: One-command updates
 
 ### Development Resources
 - **API Documentation**: FastAPI auto-generated docs at `/api/docs`
 - **Component Library**: UI components with Storybook-ready structure
-- **Architecture Decisions**: [`tasks/memory.md`](tasks/memory.md)
 
 ---
 
@@ -627,8 +622,8 @@ Special thanks to:
 ### Questions?
 We're here to help! Reach out through:
 
-- **Email**: [Your Email]
-- **GitHub**: [Repository Link]
+- **Email**: ryuu@ryker.my.id
+- **GitHub**: "N/A"
 - **Documentation**: Full guides in `/docs` directory
 - **Live Demo**: [https://ryker.my.id](https://ryker.my.id)
 
@@ -665,7 +660,7 @@ The future of secure communication is here. **Welcome to Quieo.**
 
 ---
 
-*Last Updated: January 2025*  
+*Last Updated: October 2025*  
 *Version: 1.0.0*  
 *Status: Production Deployed*
 
