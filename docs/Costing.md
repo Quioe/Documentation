@@ -455,6 +455,6 @@ The deployment of a quantum-secure email system for ISRO represents a critical i
 ---
 
 **Document Version**: 1.0  
-**Date**: January 2025  
+**Date**: Octobre 2025  
 **Classification**: For Official Use Only  
 **Prepared For**: ISRO - Indian Space Research Organisation
